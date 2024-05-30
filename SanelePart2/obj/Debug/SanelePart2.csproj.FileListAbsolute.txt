@@ -1,0 +1,7 @@
+C:\Users\sandi\source\repos\SanelePart2\SanelePart2\bin\Debug\SanelePart2.exe.config
+C:\Users\sandi\source\repos\SanelePart2\SanelePart2\bin\Debug\SanelePart2.exe
+C:\Users\sandi\source\repos\SanelePart2\SanelePart2\bin\Debug\SanelePart2.pdb
+C:\Users\sandi\source\repos\SanelePart2\SanelePart2\obj\Debug\SanelePart2.csproj.AssemblyReference.cache
+C:\Users\sandi\source\repos\SanelePart2\SanelePart2\obj\Debug\SanelePart2.csproj.CoreCompileInputs.cache
+C:\Users\sandi\source\repos\SanelePart2\SanelePart2\obj\Debug\SanelePart2.exe
+C:\Users\sandi\source\repos\SanelePart2\SanelePart2\obj\Debug\SanelePart2.pdb

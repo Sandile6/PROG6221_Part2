@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandi\\source\\repos\\SanelePart2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBCB1C9-A4F2-4811-A749-C91FF64E3723}|SanelePart2Testes\\SanelePart2Testes.csproj|c:\\users\\sandi\\source\\repos\\sanelepart2\\sanelepart2testes\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CBCB1C9-A4F2-4811-A749-C91FF64E3723}|SanelePart2Testes\\SanelePart2Testes.csproj|solutionrelative:sanelepart2testes\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD245179-715A-4F04-B9DF-6A1B1F7BE94E}|SanelePart2\\SanelePart2.csproj|C:\\Users\\sandi\\source\\repos\\SanelePart2\\sanelepart2\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD245179-715A-4F04-B9DF-6A1B1F7BE94E}|SanelePart2\\SanelePart2.csproj|solutionrelative:sanelepart2\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD245179-715A-4F04-B9DF-6A1B1F7BE94E}|SanelePart2\\SanelePart2.csproj|C:\\Users\\sandi\\source\\repos\\SanelePart2\\sanelepart2\\ingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD245179-715A-4F04-B9DF-6A1B1F7BE94E}|SanelePart2\\SanelePart2.csproj|solutionrelative:sanelepart2\\ingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD245179-715A-4F04-B9DF-6A1B1F7BE94E}|SanelePart2\\SanelePart2.csproj|C:\\Users\\sandi\\source\\repos\\SanelePart2\\sanelepart2\\step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD245179-715A-4F04-B9DF-6A1B1F7BE94E}|SanelePart2\\SanelePart2.csproj|solutionrelative:sanelepart2\\step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD245179-715A-4F04-B9DF-6A1B1F7BE94E}|SanelePart2\\SanelePart2.csproj|C:\\Users\\sandi\\source\\repos\\SanelePart2\\sanelepart2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD245179-715A-4F04-B9DF-6A1B1F7BE94E}|SanelePart2\\SanelePart2.csproj|solutionrelative:sanelepart2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\SanelePart2\\SanelePart2Testes\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SanelePart2Testes\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\SanelePart2\\SanelePart2Testes\\UnitTest1.cs",
+              "RelativeToolTip": "SanelePart2Testes\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:17:46.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ingredients.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\SanelePart2\\SanelePart2\\Ingredients.cs",
+              "RelativeDocumentMoniker": "SanelePart2\\Ingredients.cs",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\SanelePart2\\SanelePart2\\Ingredients.cs",
+              "RelativeToolTip": "SanelePart2\\Ingredients.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:44:01.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\SanelePart2\\SanelePart2\\Recipe.cs",
+              "RelativeDocumentMoniker": "SanelePart2\\Recipe.cs",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\SanelePart2\\SanelePart2\\Recipe.cs",
+              "RelativeToolTip": "SanelePart2\\Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:42:21.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Step.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\SanelePart2\\SanelePart2\\Step.cs",
+              "RelativeDocumentMoniker": "SanelePart2\\Step.cs",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\SanelePart2\\SanelePart2\\Step.cs",
+              "RelativeToolTip": "SanelePart2\\Step.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:41:40.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\SanelePart2\\SanelePart2\\Program.cs",
+              "RelativeDocumentMoniker": "SanelePart2\\Program.cs",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\SanelePart2\\SanelePart2\\Program.cs",
+              "RelativeToolTip": "SanelePart2\\Program.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAADwv8gAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:38:42.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

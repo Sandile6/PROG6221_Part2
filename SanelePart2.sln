@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanelePart2", "SanelePart2\SanelePart2.csproj", "{AD245179-715A-4F04-B9DF-6A1B1F7BE94E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanelePart2Tests", "SanelePart2Testes\SanelePart2Tests.csproj", "{6CBCB1C9-A4F2-4811-A749-C91FF64E3723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD245179-715A-4F04-B9DF-6A1B1F7BE94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD245179-715A-4F04-B9DF-6A1B1F7BE94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD245179-715A-4F04-B9DF-6A1B1F7BE94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD245179-715A-4F04-B9DF-6A1B1F7BE94E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CBCB1C9-A4F2-4811-A749-C91FF64E3723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBCB1C9-A4F2-4811-A749-C91FF64E3723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CBCB1C9-A4F2-4811-A749-C91FF64E3723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CBCB1C9-A4F2-4811-A749-C91FF64E3723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF77B315-CBAA-4A6A-83EF-69789B7FE715}
+	EndGlobalSection
+EndGlobal
